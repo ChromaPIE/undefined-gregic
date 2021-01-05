@@ -10,3 +10,7 @@ UndefinedGregic/minecraft/*
 !UndefinedGregic/minecraft/oresources
 !UndefinedGregic/minecraft/resourcepacks
 !UndefinedGregic/minecraft/scripts
+UndefinedGregic/minecraft/scripts/.zsrc
+UndefinedGregic/minecraft/scripts/oresources - 快捷方式.lnk
+UndefinedGregic/minecraft/scripts/resources - 快捷方式.lnk
+UndefinedGregic/minecraft/scripts/desktop.ini
