@@ -1,0 +1,97 @@
+{
+
+  "displayName": {
+    "en_us": "GregTech Collections - Tools & Materials Case",
+    "zh_cn": "格雷之选 - 工具材料收藏箱"
+  },
+  "contents": [
+    {
+      "action": "single",
+      "type": "gregtech:compressed_25",
+      "amount": 1,"meta": 4,"rarity": 0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_27",
+      "amount": 1,"meta": 2,"rarity": 0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_27",
+      "amount": 1,"meta": 3,"rarity": 0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_27",
+      "amount": 1,"meta": 5,"rarity": 0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_27",
+      "amount": 2,"meta": 6,"rarity": 0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_27",
+      "amount": 2,"meta": 8,"rarity": 0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_tool",
+      "nbt": {"GT.ToolStats": {"Material": "hsss"}},
+      "amount": 1,"meta": 8,"rarity": 1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_26",
+      "amount": 6,"meta": 3, "rarity": 1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount": 4,"meta": 10993, "rarity": 1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:machine_casing",
+      "amount": 3,"meta": 4, "rarity": 1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:machine_casing",
+      "amount": 2,"meta": 7, "rarity": 1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:machine",
+      "amount": 2,"meta": 508, "rarity": 2
+    },
+    {
+      "action": "single",
+      "type": "gtadditions:ga_cell_casing",
+      "amount": 6,"meta": 0, "rarity": 2
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "nbt": {"Fluid": {"FluidName": "styrene_butadiene_rubber", "Amount": 64000}},
+      "amount": 1,"meta": 32405, "rarity": 2
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_2",
+      "amount": 12,"meta": 3, "rarity": 3
+    },
+    {
+      "action": "single",
+      "type": "gregtech:compressed_14",
+      "amount": 6,"meta": 7, "rarity": 3
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount": 9,"meta": 32598, "rarity": 4
+    }
+  ],
+  "color": "#C83247"
+}

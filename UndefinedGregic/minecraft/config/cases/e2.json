@@ -1,0 +1,125 @@
+{
+
+  "displayName": {
+    "zh_cn": "末影接口之选-磨珠收藏箱",
+    "en_us": "EnderIO Collections - Grindball Case"
+  },
+  "contents": [
+    {
+      "action": "oredict",
+      "type": "ballInfinity",
+      "amount": 1,"rarity": 4
+    },
+    {
+      "action": "oredict",
+      "type": "ballNeutronium",
+      "amount": 32,"rarity": 3
+    },
+    {
+      "action": "oredict",
+      "type": "ballStellarAlloy",
+      "amount": 64,"rarity": 3
+    },
+    {
+      "action": "oredict",
+      "type": "ballDarkSteel",
+      "amount": 64,"rarity": 2
+    },
+    {
+      "action": "oredict",
+      "type": "ballSoularium",
+      "amount": 64,"rarity": 2
+    },
+    {
+      "action": "oredict",
+      "type": "ballEndSteel",
+      "amount": 64,"rarity": 2
+    },
+    {
+      "action": "oredict",
+      "type": "ballMelodicAlloy",
+      "amount": 64,"rarity": 2
+    },
+    {
+      "action": "oredict",
+      "type": "itemGrindingBallLumium",
+      "amount": 64,"rarity": 2
+    },
+    {
+      "action": "oredict",
+      "type": "itemGrindingBallSignalum",
+      "amount": 64,"rarity": 1
+    },
+    {
+      "action": "oredict",
+      "type": "itemGrindingBallEnderium",
+      "amount": 64,"rarity": 1
+    },
+    {
+      "action": "oredict",
+      "type": "ballCrystallinePinkSlime",
+      "amount": 48,"rarity": 1
+    },
+    {
+      "action": "oredict",
+      "type": "ballVibrantAlloy",
+      "amount": 48,"rarity": 1
+    },
+    {
+      "action": "oredict",
+      "type": "ballCrystallineAlloy",
+      "amount": 48,"rarity": 1
+    },
+    {
+      "action": "oredict",
+      "type": "ballVividAlloy",
+      "amount": 48,"rarity": 1
+    },
+    {
+      "action": "oredict",
+      "type": "ballElectricalSteel",
+      "amount": 32,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballPulsatingIron",
+      "amount": 32,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballEnergeticSilver",
+      "amount": 32,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballEnergeticAlloy",
+      "amount": 32,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballCrudeSteel",
+      "amount": 64,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballConductiveIron",
+      "amount": 64,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballRedstoneAlloy",
+      "amount": 64,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "ballConstructionAlloy",
+      "amount": 64,"rarity": 0
+    },
+    {
+      "action": "oredict",
+      "type": "gemFlint",
+      "amount": 64,"rarity": 0
+    }
+  ],
+  "color": "#135E5F"
+}

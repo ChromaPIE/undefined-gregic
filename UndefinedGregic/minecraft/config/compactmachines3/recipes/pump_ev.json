@@ -1,0 +1,81 @@
+{
+  "name": "compactmachines3:pump_ev",
+ 
+  "target-block": "gtadditions:ga_pump_casing",
+  "target-count": 1,
+  "target-meta": 3,
+
+  "duration": 120,
+  "symmetrical": true,
+
+  "catalyst": "gregtech:meta_item_1",
+  "catalyst-meta": 32613,
+
+  "input-types": {
+    "a": {
+      "id": "mekanism:basicblock",
+      "meta": 8
+    },
+    "b": {
+      "id": "contenttweaker:b_ev",
+      "meta": 0
+    },
+    "c": {
+      "id": "gregtech:machine_casing",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "b",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "b",
+        "b",
+        "b"
+      ],
+      [
+        "b",
+        "c",
+        "b"
+      ],
+      [
+        "b",
+        "b",
+        "b"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "b",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+}

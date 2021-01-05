@@ -1,0 +1,15 @@
+{
+	title: "0 - Feed Yourself",
+	icon: {
+		id: "gregtech:meta_tool",
+		tag: {
+			GT.ToolStats: {
+				Material: "flint"
+			}
+		},
+		Damage: 12s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

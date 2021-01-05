@@ -1,0 +1,17 @@
+{
+	title: "商店终端",
+	x: -1.0d,
+	y: -1.5d,
+	text: [
+		"这部手机可以用来售出各式战利品来赚取金币，以便买到更多的补给包裹。"
+	],
+	dependencies: [
+		"4ba0789d"
+	],
+	tasks: [{
+		uid: "63a74108",
+		type: "checkmark",
+		title: "商店终端",
+		icon: "delivery:store_tech"
+	}]
+}

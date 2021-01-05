@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+
+ <recipe name="Item Hiding, Base" required="true">
+ <hiding>
+ <item name="blockElectricalSteel" show="true" />
+ <item name="blockEnergeticAlloy" show="true" />
+ <item name="blockVibrantAlloy" show="true" />
+ <item name="blockRedstoneAlloy" show="true" />
+ <item name="blockConductiveIron" show="true" />
+ <item name="blockPulsatingIron" show="true" />
+ <item name="blockDarkSteel" show="true" />
+ <item name="blockEndSteel" show="true" />
+ <item name="blockConstructionAlloy" show="true" />
+ <item name="ingotElectricalSteel" show="true" />
+ <item name="ingotEnergeticAlloy" show="true" />
+ <item name="ingotVibrantAlloy" show="true" />
+ <item name="ingotRedstoneAlloy" show="true" />
+ <item name="ingotConductiveIron" show="true" />
+ <item name="ingotPulsatingIron" show="true" />
+ <item name="ingotDarkSteel" show="true" />
+ <item name="ingotEndSteel" show="true" />
+ <item name="ingotConstructionAlloy" show="true" />
+ <item name="nuggetElectricalSteel" show="true" /> 
+ <item name="nuggetEnergeticAlloy" show="true" />
+ <item name="nuggetVibrantAlloy" show="true" />
+ <item name="nuggetRedstoneAlloy" show="true" />
+ <item name="nuggetConductiveIron" show="true" />
+ <item name="nuggetPulsatingIron" show="true" />
+ <item name="nuggetDarkSteel" show="true" />
+ <item name="nuggetEndSteel" show="true" />
+ <item name="nuggetConstructionAlloy" show="true" />
+
+ <fluid name="cloud_seed" show="true"/>
+ <fluid name="cloud_seed_concentrated" show="true"/>
+ <item name="enderio:item_dark_steel_helmet:0" show="true" />
+ <item name="enderio:item_dark_steel_chestplate:0" show="true" />
+ <item name="enderio:item_dark_steel_leggings:0" show="true" />
+ <item name="enderio:item_dark_steel_boots:0" show="true" />
+ <item name="enderio:item_dark_steel_sword:0" show="true" />
+ <item name="enderio:item_dark_steel_pickaxe:0" show="true" />
+ <item name="enderio:item_dark_steel_axe:0" show="true" />
+ <item name="enderio:item_dark_steel_bow:0" show="true" />
+ <item name="enderio:item_dark_steel_shears:0" show="true" />
+ <item name="enderio:item_dark_steel_treetap:0" show="true" />
+ <item name="enderio:item_dark_steel_crook:0" show="true" />
+ <item name="enderio:item_dark_steel_hand:0" show="true" />
+ <item name="enderio:item_material:73" show="true" />
+ <item name="enderio:item_material:12" show="true" />
+ <item name="enderio:item_material:13" show="true" />
+ <item name="enderio:item_material:14" show="true" />
+ <item name="enderio:item_material:15" show="true" />
+ <item name="enderio:item_material:22" show="true" />
+</hiding>
+</recipe>
+</enderio:recipes>

@@ -1,0 +1,21 @@
+{
+	title: "能力瓶",
+	x: -2.5d,
+	y: -3.5d,
+	text: [
+		"能力瓶的开局能力包含催生、育种等对于开局无足轻重的能力，但也有夜视、隐身、抗火、铁布衫等强力加持的能力。你开到了什么能力呢？",
+		"",
+		"开局给予你的经验值会恰好足够装载你的开局能力。当然，你也可以把这笔可观的经验值省下来留给以后。"
+	],
+	tasks: [{
+		uid: "8b51368c",
+		type: "checkmark",
+		title: "能力瓶",
+		icon: {
+			id: "everlastingabilities:ability_bottle",
+			tag: {
+				"everlastingabilities:abilityStoreStack": []
+			}
+		}
+	}]
+}

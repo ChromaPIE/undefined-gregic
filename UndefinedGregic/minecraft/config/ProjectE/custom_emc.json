@@ -1,0 +1,380 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 192
+    },
+    {
+      "item": "gregtech:frame_aluminium|0",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:metal_casing|3",
+      "emc": 603
+    },
+    {
+      "item": "nuclearcraft:compound|2",
+      "emc": 224
+    },
+    {
+      "item": "nuclearcraft:gem_dust|0",
+      "emc": 8192
+    },
+    {
+      "item": "nuclearcraft:gem_dust|2",
+      "emc": 256
+    },
+    {
+      "item": "fluxnetworks:flux|0",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 240
+    },
+    {
+      "item": "enderstorage:ender_storage|1",
+      "emc": 9136
+    },
+    {
+      "item": "enderstorage:ender_storage|0",
+      "emc": 7408
+    },
+    {
+      "item": "witherskelefix:fragment|0",
+      "emc": 5158
+    },
+    {
+      "item": "enderio:item_material|29",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|15",
+      "emc": 18
+    },
+    {
+      "item": "deepmoblearning:soot_covered_redstone|0",
+      "emc": 64
+    },
+    {
+      "item": "appliedenergistics2:material|24",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|23",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|22",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_1|10035",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:glowstone|0",
+      "emc": 1536
+    },
+    {
+      "item": "randomthings:beans|0",
+      "emc": 64
+    },
+    {
+      "item": "gregtech:meta_item_1|2996",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:reinforcedalloy|0",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:otherdust|5",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:atomicalloy|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|9",
+      "emc": 16
+    },
+    {
+      "item": "gregtech:frame_hsse|0",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:frame_iron|0",
+      "emc": 352
+    },
+    {
+      "item": "gregtech:meta_item_1|12993",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 448
+    },
+    {
+      "item": "avaritia:singularity|12",
+      "emc": 158054400
+    },
+    {
+      "item": "actuallyadditions:item_solidified_experience|0",
+      "emc": 0
+    },
+    {
+      "item": "fluidtank:blocktankcreative|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|1",
+      "emc": 1154
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 424
+    },
+    {
+      "item": "progressivebosses:nether_star_shard|0",
+      "emc": 17408
+    },
+    {
+      "item": "futuremc:sweet_berries|0",
+      "emc": 48
+    },
+    {
+      "item": "futuremc:bamboo|0",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "securitycraft:keypad_chest|0",
+      "emc": 584
+    },
+    {
+      "item": "currency:nickel|0",
+      "emc": 0
+    },
+    {
+      "item": "currency:penny|0",
+      "emc": 0
+    },
+    {
+      "item": "tconevo:edible|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 28
+    },
+    {
+      "item": "car:sign_post|0",
+      "emc": 256
+    },
+    {
+      "item": "netherex:wither_bone|0",
+      "emc": 5158
+    },
+    {
+      "item": "tconstruct:materials|17",
+      "emc": 5158
+    },
+    {
+      "item": "mekanism:energycube|0",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_1|2044",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:emerald_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_misc|3",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:ore_gold_0|0",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:ore_iron_0|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:coal_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:quartz_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_misc|5",
+      "emc": 256
+    },
+    {
+      "item": "enderio:block_enderman_skull|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:coal|1",
+      "emc": 0
+    },
+    {
+      "item": "futureminecraf:bluedye|0",
+      "emc": 14
+    },
+    {
+      "item": "gregtech:meta_item_1|10184",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sandstone|0",
+      "emc": 4
+    },
+    {
+      "item": "enderio:item_alloy_ingot|3",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|4",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:cable|26",
+      "emc": 1024
+    },
+    {
+      "item": "appliedenergistics2:material|8",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_ingot|7",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_2|18071",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sugar|0",
+      "emc": 8
+    },
+    {
+      "item": "gregtech:meta_item_1|2101",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:basicblock|8",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_1|12047",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_2|26047",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_endergy_ingot|5",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_1|10094",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:material|10",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|2",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|5",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|1",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|3",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:item_crystal_empowered|4",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|0",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|1",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|2",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|3",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|4",
+      "emc": 0
+    },
+    {
+      "item": "actuallyadditions:block_crystal_empowered|5",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|2",
+      "emc": 0
+    },
+    {
+      "item": "gregtech:meta_item_1|10993",
+      "emc": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+
+  "displayName": {
+    "en_us": "Souvenir Coin Case",
+    "zh_cn": "纪念币收藏品箱"
+  },
+  "contents": [
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32000,"rarity":0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32001,"rarity":0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32002,"rarity":0
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32003,"rarity":1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32004,"rarity":1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32005,"rarity":2
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32006,"rarity":3
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32007,"rarity":4
+    }
+  ],
+  "color": "#EDE200"
+}

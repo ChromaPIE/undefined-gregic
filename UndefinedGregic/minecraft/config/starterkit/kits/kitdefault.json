@@ -1,0 +1,46 @@
+{
+  "claimlimit": 0,
+  "localizedname": "All starts here.",
+  "stacks": [
+    {
+      "item": "delivery:store_tech",
+      "count": 1
+    },
+    {
+      "item": "thermalexpansion:satchel:3",
+      "count": 1
+    },
+    {
+      "item": "magicclover:clover",
+      "count": 8
+    },
+    {
+      "item": "thermalfoundation:tool.pickaxe_tin",
+      "count": 1
+    },
+    {
+      "item": "scalinghealth:healingitem",
+      "count": 4
+    },
+    {
+      "item": "gregtech:meta_item_1:32476",
+      "count": 1,
+      "nbt": {
+        "GT.UsesLeft": 7
+      }
+    },
+    {
+      "item": "lodsofemone:coin_big",
+      "count": 1,
+      "nbt": {
+        "value": 103270
+      }
+    }
+  ],
+  "r": 180,
+  "g": 0,
+  "b": 20,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}

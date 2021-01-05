@@ -1,0 +1,81 @@
+{
+  "name": "compactmachines3:fielder_zpm",
+ 
+  "target-block": "gtadditions:ga_field_gen_casing",
+  "target-count": 1,
+  "target-meta": 6,
+
+  "duration": 180,
+  "symmetrical": true,
+
+  "catalyst": "gregtech:meta_item_1",
+  "catalyst-meta": 32676,
+
+  "input-types": {
+    "a": {
+      "id": "mekanism:basicblock",
+      "meta": 8
+    },
+    "b": {
+      "id": "contenttweaker:b_zpm",
+      "meta": 0
+    },
+    "c": {
+      "id": "gregtech:machine_casing",
+      "meta": 7
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "b",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "b",
+        "b",
+        "b"
+      ],
+      [
+        "b",
+        "c",
+        "b"
+      ],
+      [
+        "b",
+        "b",
+        "b"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "b",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+}

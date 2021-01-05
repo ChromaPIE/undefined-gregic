@@ -1,0 +1,45 @@
+{
+
+  "displayName": {
+    "en_us": "Communicational Supplies",
+    "zh_cn": "通讯补给"
+  },
+  "contents": [
+    {
+      "action": "single",
+      "type": "magicclover:clover",
+      "amount":4,"meta":0,"rarity":0
+    },
+    {
+      "action": "single",
+      "type": "air_support:circuit_board",
+      "amount":2,"meta":0,"rarity":1
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":1,"meta":32680,"rarity":1
+    },
+    {
+      "action": "single",
+      "type": "air_support:utility_crate_drop_remote",
+      "amount":1,"meta":0,"rarity":2
+    },
+    {
+      "action": "single",
+      "type": "magicclover:clover",
+      "amount":16,"meta":0,"rarity":2
+    },
+    {
+      "action": "single",
+      "type": "gregtech:meta_item_1",
+      "amount":32,"meta":32680,"rarity":3
+    },
+    {
+      "action": "single",
+      "type": "magicclover:clover",
+      "amount":64,"meta":0,"rarity":4
+    }
+  ],
+  "color": "#4FFFB7"
+}
