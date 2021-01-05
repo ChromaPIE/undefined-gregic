@@ -93,7 +93,7 @@ val nameZHCNArray = [
     "以高级合金板右击聚能石英玻璃来将其强化为强化玻璃。",
     "右键以收集这些余灰。",
     "用这样原始的工具进行研磨混合是个力气活。\n如果你发现自己似乎没力气捣下研杵了，记得先吃点东西。",
-    "用脉冲水晶右击禁锢末影侵蚀头颅以获取末影水晶。",
+    "用充能水晶右击禁锢末影侵蚀头颅以获取末影水晶。",
     "末影之星拥有极强的同化效力。以其右击凋灵骷髅头颅将其转化为禁锢末影侵蚀头颅。\n \n侵蚀之力消耗殆尽时，禁锢末影侵蚀头颅会衰变为普通的，无法从末影人身上直接获取的末影人头颅。此时对其使用末影晶簇即可使效力被再次激活。"
 ] as string[];
 
@@ -140,7 +140,7 @@ val nameENUSArray = [
     "Right-click the Vibrant Quartz Glass with Advanced Alloy Plates to make the Reinforced Glass.",
     "Right-click to collect these ashes.",
     "You'll need to get something to eat before continuing to deal with such a primitive tool\nif you find yourself not being able to grind and mix things with it anymore.",
-    "Acquired by right-clicking the Tormented Ender-Eroded Skull with the Pulsating Crystal.",
+    "Acquired by right-clicking the Tormented Ender-Eroded Skull with the Vibrant Crystal.",
     "Ender Star has a super strong kind of assimilating effect enough to erode the Wither Skeleton Skull into Tormented Ender-Eroded Skull.\n \nIt decays into the regular Enderman Skull, which can't be obtained in conventional ways, when the effect fades out. Use the Ender Cluster on it to establish a reactivation."
 ] as string[];
 
