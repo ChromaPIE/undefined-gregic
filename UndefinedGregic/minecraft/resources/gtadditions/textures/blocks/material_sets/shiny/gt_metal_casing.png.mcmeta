@@ -1,0 +1,10 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "gtadditions:blocks/material_sets/shiny/gt_metal_casing-ctm"
+        ]
+    }
+}

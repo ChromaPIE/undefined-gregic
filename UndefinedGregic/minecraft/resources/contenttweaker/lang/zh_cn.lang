@@ -1,0 +1,71 @@
+#PARSE_ESCAPES
+
+material.conductive_iron=导电铁
+material.energetic_alloy=充能合金
+material.vibrant_alloy=脉冲合金
+material.lumium=流明
+material.vivid_alloy=生动合金
+material.signalum=信素
+material.enderium=末影
+material.stellar_alloy=恒星合金
+material.draconium=龙素
+material.pallaridium=钯铱合金
+
+// LV MV HV EV IV LuV ZPM UV MAX
+//基础控制电路 basic
+item.contenttweaker.good_c.name=改良控制电路
+//高级控制电路 advanced
+item.contenttweaker.extreme_c.name=量子控制电路
+//精英控制电路 elite
+item.contenttweaker.master_c.name=晶化控制电路
+//终极控制电路 ultimate
+item.contenttweaker.superconductor_c.name=自发控制电路
+
+item.contenttweaker.infinite_c.name=终焉处理核心
+
+item.contenttweaker.emcoin.name=炼金代币
+item.contenttweaker.endercluster.name=末影晶簇
+
+item.contenttweaker.spray_ptfe.name=喷涂罐（聚四氟乙烯）
+item.contenttweaker.empty_spray.name=空喷涂罐
+
+item.contenttweaker.pestle_head.name=研杵头
+item.contenttweaker.plate_obsidian.name=黑曜石板
+
+item.contenttweaker.fluxed_elec.name=充能琥珀金锭
+item.contenttweaker.fluxed_elec_stick.name=充能琥珀金杆
+item.contenttweaker.fluxed_elec.name=充能琥珀金锭
+item.contenttweaker.dust_lapotron.name=兰波顿解离粉尘
+item.contenttweaker.wafer_esilver.name=充能银电路晶片
+
+tile.contenttweaker.b_lv.name=低压布管机械组件
+tile.contenttweaker.b_mv.name=中压布管机械组件
+tile.contenttweaker.b_hv.name=高压布管机械组件
+tile.contenttweaker.b_ev.name=超高压布管机械组件
+tile.contenttweaker.b_iv.name=强导压布管机械组件
+tile.contenttweaker.b_luv.name=剧差压布管机械组件
+tile.contenttweaker.b_zpm.name=零点压布管机械组件
+tile.contenttweaker.b_uv.name=极限压布管机械组件
+
+item.contenttweaker.al_p_brk.name=不成型的铝板
+item.contenttweaker.ag_p_brk.name=不成型的银板
+item.contenttweaker.au_p_brk.name=不成型的金板
+item.contenttweaker.obs_p_brk.name=不成型的黑曜石板
+item.contenttweaker.cu_p_brk.name=不成型的铜板
+item.contenttweaker.fe_p_brk.name=不成型的铁板
+item.contenttweaker.pb_p_brk.name=不成型的铅板
+item.contenttweaker.ni_p_brk.name=不成型的镍板
+item.contenttweaker.wood_p_brk.name=不成型的木板
+item.contenttweaker.sn_p_brk.name=不成型的锡板
+
+item.contenttweaker.c_coil.name=2x 白铜线缆（硅酸铝覆层）
+contenttweaker.c_coil.tooltips=仅用于合成。
+
+item.contenttweaker.hardened_gold_ingot.name=硬质金锭
+item.contenttweaker.conductive_chrome.name=通能铬合金锭
+item.contenttweaker.conductive_chrome_nugget.name=通能铬合金粒
+item.contenttweaker.conductive_chrome_ball.name=通能铬合金滚珠
+item.contenttweaker.binder.name=导管强化粘合片
+
+fluid.nerfed_cryotheum=酷寒之凛冰
+fluid.empovio=水晶充能浆液

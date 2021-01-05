@@ -1,0 +1,12 @@
+[
+    {
+      "targetBlock": "enderio:block_enderman_skull:2",
+      "heldItem": "enderio:item_material:15",
+      "replacementBlock": "enderio:block_enderman_skull",
+      "damage": "1",
+      "dropItem": "enderio:item_material:16",
+      "particleType": "portal",
+      "particleArea": "in",
+      "particleCount": "20:60"
+    }
+]

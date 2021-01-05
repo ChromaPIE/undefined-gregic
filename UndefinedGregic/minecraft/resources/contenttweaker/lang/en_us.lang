@@ -1,0 +1,61 @@
+material.conductive_iron=Conductive Iron
+material.energetic_alloy=Energetic Alloy
+material.vibrant_alloy=Vibrant Alloy
+material.lumium=Lumium
+material.vivid_alloy=Vivid Alloy
+material.signalum=Signalum
+material.enderium=Enderium
+material.stellar_alloy=Stellar Alloy
+material.draconium=Draconium
+material.pallaridium=Palladium-Iridium Alloy
+
+// LV MV HV EV IV LuV ZPM UV MAX
+//基础控制电路 basic
+item.contenttweaker.good_c.name=Ameliorated Control Circuit
+//高级控制电路 advanced
+item.contenttweaker.extreme_c.name=Quantum Control Circuit
+//精英控制电路 elite
+item.contenttweaker.master_c.name=Crystallized Control Circuit
+//终极控制电路 ultimate
+item.contenttweaker.superconductor_c.name=Self-Controlling Circuit
+
+item.contenttweaker.infinite_c.name=Demising Circuit
+
+item.contenttweaker.emcoin.name=EMCoin
+item.contenttweaker.endercluster.name=Ender Cluster
+
+item.contenttweaker.spray_ptfe.name=Painting Can (PTFE)
+item.contenttweaker.empty_spray.name=Empty Painting Can
+
+item.contenttweaker.pestle_head.name=Pestle Head
+item.contenttweaker.plate_obsidian.name=Obsidian Plate
+
+tile.contenttweaker.b_lv.name=BICS (LV)
+tile.contenttweaker.b_mv.name=BICS (MV)
+tile.contenttweaker.b_hv.name=BICS (HV)
+tile.contenttweaker.b_ev.name=BICS (EV)
+tile.contenttweaker.b_iv.name=BICS (IV)
+tile.contenttweaker.b_luv.name=BICS (LuV)
+tile.contenttweaker.b_zpm.name=BICS (ZPM)
+tile.contenttweaker.b_uv.name=BICS (UV)
+
+item.contenttweaker.al_p_brk.name=Deformed Aluminium Plate
+item.contenttweaker.ag_p_brk.name=Deformed Silver Plate
+item.contenttweaker.au_p_brk.name=Deformed Gold Plate
+item.contenttweaker.obs_p_brk.name=Deformed Obsidian Plate
+item.contenttweaker.cu_p_brk.name=Deformed Copper Plate
+item.contenttweaker.fe_p_brk.name=Deformed Iron Plate
+item.contenttweaker.pb_p_brk.name=Deformed Lead Plate
+item.contenttweaker.ni_p_brk.name=Deformed Nickel Plate
+item.contenttweaker.wood_p_brk.name=Deformed Wood Plate
+item.contenttweaker.sn_p_brk.name=Deformed Tin Plate
+
+item.contenttweaker.c_coil.name=Alumino Silicate Cladded 2x Cupronickel Wire
+contenttweaker.c_coil.tooltips=For Recipes Only.
+
+item.contenttweaker.hardened_gold_ingot.name=Hardened Gold Ingot
+item.contenttweaker.conductive_chrome.name=Fluxed Chrome Ingot
+item.contenttweaker.binder.name=Reinforced Conduit Binder
+
+fluid.nerfed_cryotheum=Moderate Cryotheum
+fluid.empovio=Empovio

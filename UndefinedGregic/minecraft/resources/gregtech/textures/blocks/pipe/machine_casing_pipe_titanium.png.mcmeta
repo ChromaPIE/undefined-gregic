@@ -1,0 +1,21 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "gregtech:blocks/pipe/machine_casing_pipe_titanium-ctm"
+        ],
+        "extra": {
+            "connect_to": [
+                {
+                    "block": "gregtech:metal_casing_titanium",
+                    "predicate":
+                    {
+                        "type": "gt_metal_casing"
+                    }
+                }
+            ]
+        }
+    }
+}

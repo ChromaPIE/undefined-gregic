@@ -1,0 +1,10 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type":"ctm",
+		"layer":"SOLID",
+		"textures":[
+			"gregtech:blocks/casings/mechanics/machine_casing_turbine_ctm"
+		]
+	}
+}

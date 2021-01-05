@@ -1,0 +1,10 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "gregtech:blocks/casings/solid/cladded_reactor_casing_ctm"
+        ]
+    }
+}

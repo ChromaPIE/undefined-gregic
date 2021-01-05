@@ -1,0 +1,11 @@
+[
+    {
+      "targetBlock": "minecraft:skull:1",
+      "heldItem": "actuallyadditions:item_misc:19",
+      "replacementBlock": "enderio:block_enderman_skull:2",
+      "damage": "1",
+      "particleType": "flame",
+      "particleArea": "out",
+      "particleCount": "20:60"
+    }
+]

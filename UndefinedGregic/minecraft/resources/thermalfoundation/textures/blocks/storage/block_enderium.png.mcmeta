@@ -1,0 +1,7 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "ctm",
+		"textures": [ "thermalfoundation:blocks/storage/block_enderium_ctm" ]
+	}
+}

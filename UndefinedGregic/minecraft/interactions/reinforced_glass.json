@@ -1,0 +1,11 @@
+[
+    {
+      "targetBlock": "appliedenergistics2:quartz_vibrant_glass",
+      "heldItem": "gregtech:meta_item_2:32433",
+      "replacementBlock": "gtadditions:ga_transparent_casing",
+      "damage": "1",
+      "particleType": "crit",
+      "particleArea": "out",
+      "particleCount": "20:60"
+    }
+]

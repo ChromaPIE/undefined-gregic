@@ -1,0 +1,11 @@
+[
+    {
+      "targetBlock": "enderio:block_enderman_skull",
+      "heldItem": "contenttweaker:endercluster",
+      "replacementBlock": "enderio:block_enderman_skull:2",
+      "damage": "1",
+      "particleType": "magicCrit",
+      "particleArea": "out",
+      "particleCount": "20:60"
+    }
+]

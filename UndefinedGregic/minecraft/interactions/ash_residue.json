@@ -1,0 +1,11 @@
+[
+    {
+      "targetBlock": "campfire:ash",
+      "heldItem": "*:*",
+      "replacementBlock": "minecraft:air",
+      "dropItem": "gregtech:meta_item_1:1110",
+      "particleType": "smoke",
+      "particleArea": "in",
+      "particleCount": "20:60"
+    }
+]

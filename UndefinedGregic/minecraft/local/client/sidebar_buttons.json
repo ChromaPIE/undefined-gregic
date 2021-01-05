@@ -1,0 +1,23 @@
+{
+	"ftblib": {
+		"my_team": false,
+		"settings": true,
+		"admin_panel": false
+	},
+	"ftbquests": {
+		"quests": true
+	},
+	"ftbutilities": {
+		"toggle.gamemode": true,
+		"toggle.rain": false,
+		"toggle.day": false,
+		"toggle.night": false,
+		"heal": false,
+		"claimed_chunks": true,
+		"trash_can": false,
+		"leaderboards": false
+	},
+	"ftbmoney": {
+		"shop": true
+	}
+}
