@@ -1,0 +1,9 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+actuallyadditions:jamguy
+actuallyadditions:engineer
+endreborn:explorer
