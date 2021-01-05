@@ -1,2 +1,6 @@
-# undefined-gregic
-Name undecided. Only have to know that this is a modpack.
+# Undefined Gregic
+Name undecided, well, who knows.
+
+Only have to know that this is a modpack, for a video game, known as ***Minecraft***.
+
+WIP, readme WIP, modpack WIP, everything's WIP.
