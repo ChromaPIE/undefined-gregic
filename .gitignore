@@ -18,4 +18,5 @@ UndefinedGregic/minecraft/config/splash.properties
 UndefinedGregic/minecraft/config/Probe.cfg
 UndefinedGregic/minecraft/config/enderio/recipes/*
 UndefinedGregic/minecraft/config/InvTweaks/InvTweaks.cfg
-UndefinedGregic/minecraft/config/jei/*
+UndefinedGregic/minecraft/config/jei/bookmarks.ini
+UndefinedGregic/minecraft/config/jei/worldSettings.cfg
