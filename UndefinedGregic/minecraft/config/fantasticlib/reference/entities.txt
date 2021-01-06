@@ -136,9 +136,9 @@ appliedenergistics2:appeng.entity.entitychargedquartz
 champions:entity_jail
 champions:arctic_spark
 champions:cinder_spark
+enderio:primed_charge
 enderio:falling_machine
 enderio:owl_egg
-enderio:primed_charge
 projecte:water_projectile
 projecte:lava_projectile
 projecte:mob_randomizer
