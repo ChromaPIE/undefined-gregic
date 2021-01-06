@@ -3,7 +3,6 @@
 UndefinedGregic/*
 !UndefinedGregic/minecraft
 UndefinedGregic/minecraft/*
-!UndefinedGregic/minecraft/config
 !UndefinedGregic/minecraft/interactions
 !UndefinedGregic/minecraft/local
 !UndefinedGregic/minecraft/resources
@@ -14,7 +13,9 @@ UndefinedGregic/minecraft/scripts/.zsrc
 UndefinedGregic/minecraft/scripts/oresources - 快捷方式.lnk
 UndefinedGregic/minecraft/scripts/resources - 快捷方式.lnk
 UndefinedGregic/minecraft/scripts/desktop.ini
+!UndefinedGregic/minecraft/config
 UndefinedGregic/minecraft/config/splash.properties
 UndefinedGregic/minecraft/config/Probe.cfg
 UndefinedGregic/minecraft/config/enderio/recipes/*
 UndefinedGregic/minecraft/config/InvTweaks/InvTweaks.cfg
+UndefinedGregic/minecraft/config/jei/*
